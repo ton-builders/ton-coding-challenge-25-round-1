@@ -18,7 +18,7 @@ https://t.me/TON_HongKong
 1. 用户输入 wallet 或者 /wallet 后，bot 回复你的 TON 钱包地址
 2. 用户输入 tg 或者 /tg 后，bot 回复你的 Telegram 用户名
 
-### 评分标准：
+### 答案和评分说明：
 
 请写下你的 Bot username，如果你的 Bot 没有部署到线上，则同时提交对应的代码也可参与评分，根据代码完成度评分。
 
@@ -48,7 +48,7 @@ https://t.me/TON_HongKong
 ![menu-2.jpg](public/menu-2.jpg)
 
 
-### 评分标准：
+### 答案和评分说明：
 
 请写下你的 Bot username，如果你的 Bot 没有部署到线上，则同时提交对应的代码也可参与评分，根据代码完成度评分。
 
