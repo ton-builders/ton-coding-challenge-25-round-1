@@ -34,14 +34,17 @@ https://t.me/TON_HongKong
 ### 任务描述：
 
 1. 通过 [Interactive Menus](https://grammy.dev/plugins/menu) 实现一个二级菜单
-2. 用户输入 wallet 或者 /wallet 后，回复一个带有菜单的消息
+2. 用户输入 menu 或者 /menu 后，回复一个带有菜单的消息
 3. 如图 1 所示，一级菜单有 A 和 B 两个按钮
-4. 如图 2 所示，点击按钮 A，进入二级菜单，展示 A-1、A-2 和 Go Back 按钮
+4. 点击按钮 A，如图 2 所示，进入二级菜单，展示 A-1、A-2 和 Go Back 按钮
 5. 点击 Go Back 按钮，返回到一级菜单
 
 图 1
+
 ![menu-1.jpg](public/menu-1.jpg)
+
 图 2
+
 ![menu-2.jpg](public/menu-2.jpg)
 
 
