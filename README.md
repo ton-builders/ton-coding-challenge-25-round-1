@@ -39,7 +39,7 @@ https://t.me/TON_HongKong
 4. 点击按钮 A，如图 2 所示，进入二级菜单，展示 A-1、A-2 和 Go Back 按钮
 5. 点击 Go Back 按钮，返回到一级菜单
 
-图 1
+图 1 
 
 ![menu-1.jpg](public/menu-1.jpg)
 
