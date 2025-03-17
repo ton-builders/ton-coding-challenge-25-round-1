@@ -3,7 +3,7 @@
 为了帮助大家快速掌握 TON 生态的开发技能，我们特别设计了有趣的编程入门挑战赛。快来参与并有机会赢取 Telegram Premium 大会员！详细的比赛规则请查看群组公告。
 
 活动咨询群：https://t.me/TON_HongKong
-技术咨询群：https://t.me/tondev_zh
+技术答疑群：https://t.me/tondev_zh
 
 
 > 如何参与？
