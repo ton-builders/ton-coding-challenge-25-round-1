@@ -25,7 +25,7 @@
 
 1. Bot username = Endless_Win_Bot
 2. Wallet address =  EQDaVfQ4nzPFwbZDuUhoEvNasRCInd2dfoYilxVpwxiR9HFc
-3. Telegram username =  ifoxbin
+3. Telegram username =  mtalejandro
 
    （ 你的 TON 钱包地址将用于接受 SBT，你的Telegram 用户名用于接受 Telegram Premium 会员奖励 ）
 ---
