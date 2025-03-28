@@ -25,9 +25,9 @@
 
 请写下你的 Bot username，如果你的 Bot 没有部署到线上，则同时提交对应的代码也可参与评分，根据代码完成度评分。
 
-1. Bot username = ?
-2. Wallet address =  ?
-3. Telegram username =  ?
+1. Bot username = andytoncodingbot
+2. Wallet address =  UQBj4CRGPFAbs4xe1ceLHMGcYiNK0BY-vbi1Idr6dkCJ-yhO
+3. Telegram username =  andy78644
 
    （ 你的 TON 钱包地址将用于接受 SBT，你的Telegram 用户名用于接受 Telegram Premium 会员奖励 ）
 ---
@@ -55,7 +55,7 @@
 
 请写下你的 Bot username，如果你的 Bot 没有部署到线上，则同时提交对应的代码也可参与评分，根据代码完成度评分。
 
-1. Bot username = ?
+1. Bot username = andytoncodingbot
 
 
 ---
